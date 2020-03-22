@@ -1,1 +1,1 @@
-# D3.js - Analyzing trends shaping people's lives
+# D3.js - Analyzing Trends Shaping People's Lives
